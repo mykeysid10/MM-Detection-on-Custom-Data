@@ -1,2 +1,2 @@
-# MM-Detection-on-Custom-Data
-Domain: Computer Vision
+# MM Detection on Custom Data
+Domain: Computer Vision | Instance Segmentation
