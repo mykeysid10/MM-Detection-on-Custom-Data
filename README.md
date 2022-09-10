@@ -17,5 +17,5 @@ Checkpoint_file: 'mask_rcnn_r50_caffe_fpn_mstrain-poly_3x.pth'
 
 <b>Average Accuracy: 91.6 % </b>
 
-![Diagram](https://raw.githubusercontent.com/mykeysid10/Fire-Alarm-System-using-Tinkercad/main/Output.png)
+![Diagram](https://raw.githubusercontent.com/mykeysid10/MM-Detection-on-Custom-Data/main/Output.png)
 
