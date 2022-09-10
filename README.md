@@ -1,5 +1,5 @@
 # MM Detection on Custom Data
-Domain: Computer Vision | Instance Segmentation | 
+Domain: Computer Vision | Instance Segmentation
 
 Configuration_file: 'faster_rcnn_r50_caffe_fpn_mstrain_1x_coco.py'
 
