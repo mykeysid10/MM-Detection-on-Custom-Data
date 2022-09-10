@@ -6,9 +6,7 @@ Domain: Computer Vision | Instance Segmentation
     Custom Dataset
   </a>
 </div>
-
 <br>
-
 <div align = "left">
   <a href="https://github.com/open-mmlab/mmdetection/tree/master/configs">
     Get Configuration Files & Checkpoint Files from here !
