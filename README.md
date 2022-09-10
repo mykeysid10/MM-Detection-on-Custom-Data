@@ -6,15 +6,16 @@ Domain: Computer Vision | Instance Segmentation
       Custom Dataset
       </a>
 </div>
-<br>
+
+
 <div align = "left">
       <a href="https://github.com/open-mmlab/mmdetection/tree/master/configs">
       Get Configuration Files & Checkpoint Files from here !
       </a>
 </div>
 
-<h6 align = "left">Configuration_file for this Tutorial: 'faster_rcnn_r50_caffe_fpn_mstrain_1x_coco.py'</h6>
+Configuration_file for this Tutorial: 'faster_rcnn_r50_caffe_fpn_mstrain_1x_coco.py'
 
-<h6 align = "left">Checkpoint_file for this Tutorial: 'mask_rcnn_r50_caffe_fpn_mstrain-poly_3x_coco_bbox_mAP-0.408__segm_mAP-0.37_20200504_163245-42aa3d00.pth'</h6>
+Checkpoint_file for this Tutorial: 'mask_rcnn_r50_caffe_fpn_mstrain-poly_3x_coco_bbox_mAP-0.408__segm_mAP-0.37_20200504_163245-42aa3d00.pth'
 
 ![Diagram](https://raw.githubusercontent.com/mykeysid10/Fire-Alarm-System-using-Tinkercad/main/Output.png)
