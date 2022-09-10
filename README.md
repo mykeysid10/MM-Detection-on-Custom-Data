@@ -7,6 +7,8 @@ Domain: Computer Vision | Instance Segmentation
   </a>
 </div>
 
+<br>
+
 <div align = "left">
   <a href="https://github.com/open-mmlab/mmdetection/tree/master/configs">
     Get Configuration Files & Checkpoint Files from here !
@@ -15,6 +17,6 @@ Domain: Computer Vision | Instance Segmentation
 
 Configuration_file: 'faster_rcnn_r50_caffe_fpn_mstrain_1x_coco.py'
 
-Checkpoint_file: 'mask_rcnn_r50_caffe_fpn_mstrain-poly_3x_coco_bbox_mAP-0.408__segm_mAP-0.37_20200504_163245-42aa3d00.pth'
+Checkpoint_file: 'mask_rcnn_r50_caffe_fpn_mstrain-poly_3x.pth'
 
 ![Diagram](https://raw.githubusercontent.com/mykeysid10/Fire-Alarm-System-using-Tinkercad/main/Output.png)
