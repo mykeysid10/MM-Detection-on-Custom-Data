@@ -6,17 +6,13 @@ Domain: Computer Vision | Instance Segmentation
     Custom Dataset
   </a>
 </div>
-
 <br>
-
 <div align = "left">
   <a href="https://github.com/open-mmlab/mmdetection/tree/master/configs">
     Get Configuration Files & Checkpoint Files from here !
   </a>
 </div>
-
 <br>
-
 Configuration_file: 'faster_rcnn_r50_caffe_fpn_mstrain_1x_coco.py'
 
 Checkpoint_file: 'mask_rcnn_r50_caffe_fpn_mstrain-poly_3x.pth'
