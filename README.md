@@ -4,10 +4,7 @@ Domain: Computer Vision | Instance Segmentation
 <div align = "left">
   <a href="https://www.kaggle.com/datasets/sreevishnudamodaran/vinbigdata-coco-dataset-with-wbf-3x-downscaled?select=vinbigdata-coco-dataset-with-wbf-3x-downscaled">
     Custom Dataset
-  </a>
-</div>
-<br>
-<div align = "left">
+  </a> |
   <a href="https://github.com/open-mmlab/mmdetection/tree/master/configs">
     Get Configuration Files & Checkpoint Files from here !
   </a>
